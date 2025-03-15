@@ -5,6 +5,7 @@
 - 📫 How to reach me: raniele.souza91@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I worked for 14 years in the administrative area and today I am migrating to the technology area and looking for my first opportunity
+- Studying the first semester in Software Engineering
 
 
 
