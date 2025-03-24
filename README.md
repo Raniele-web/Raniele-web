@@ -19,7 +19,6 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg">
   <img align="center" alt="QA-TestTube" height="30" width="40" src="https://img.icons8.com/color/48/000000/test-tube.png">
-  <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/jest-community/jest-logo/master/img/jest-symbol-color.svg">
 
 </div>
   
