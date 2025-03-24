@@ -17,6 +17,8 @@
   <img align="center" alt="Rani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="QA-TestTube" height="30" width="40" src="https://img.icons8.com/color/48/000000/test-tube.png">
+  <img align="center" alt="QA-Star" height="30" width="40" src="https://img.icons8.com/color/48/000000/star--v1.png">
+  <img align="center" alt="QA-Bug" height="30" width="40" src="https://img.icons8.com/color/48/000000/bug.png">
 
 </div>
   
